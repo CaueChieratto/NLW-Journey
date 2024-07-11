@@ -23,17 +23,17 @@ const atividade = {
 }
 
 let atividades = [
-    // atividade,
-    // {
-    //     nome: 'Academia em grupo',
-    //     data: new Date("2024-07-09 12:00"),
-    //     finalizada: true
-    // },
-    // {
-    //     nome: 'Gamming session',
-    //     data: new Date("2024-07-09 16:00"),
-    //     finalizada: true
-    // },
+    atividade,
+    {
+        nome: 'Academia em grupo',
+        data: new Date("2024-07-09 12:00"),
+        finalizada: true
+    },
+    {
+        nome: 'Gamming session',
+        data: new Date("2024-07-09 16:00"),
+        finalizada: true
+    },
 ]
 
 const criarItemDeAtividade = (atividade) => {
