@@ -50,6 +50,7 @@ input,select{
     display: flex;
     align-items: center;
     gap: 10px;
+    cursor: pointer;
 }
 
 .field-wrapper:focus-within{
@@ -65,6 +66,7 @@ button{
     font-weight: 500;
     font-size: 16px;
     color: #132F00;
+    cursor: pointer;
 }
 
 .card-bg{
